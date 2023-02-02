@@ -1,139 +1,60 @@
 const source = [
     {
         "type": "image",
-        "icon": "ico-neve",
+        "icon": "ico-penguin",
         "title": "gremlins",
-        "url": "images/gremlins.gif"
+        "url": "images/giphy.gif"
     },
     {
         "type": "image",
-        "icon": "ico-albero",
+        "icon": "ico-pigeon",
         "title": "friends",
-        "url": "images/friends.gif"
+        "url": "images/1.jpg"
 
     },
     {
-        "type": "text",
-        "icon": "ico-fiocco",
-        "text": "Se fossi nato fra il 1647 al 1660 non avresti potuto festeggiare il Natale! In quegli anni fu bandito e cambiato in un giorno di digiuno."
+        "type": "image",
+        "icon": "ico-capybara",
+        "url": "images/3.jpg"
     },
     {
-        "type": "image",
-        "icon": "ico-stella",
+        "type": "text",
+        "icon": "ico-happy",
         "title": "home alone",
-        "url": "images/homealone.gif"
-    },
-    {
-        "type": "text",
-        "icon": "ico-omino",
-        "text": "La stella di Natale sembra una pianta tipicamente invernale, invece nasce come cespuglio nel caldo del Messico ed era conosciuta fin dai tempi degli Aztechi"
+        "text": "2+2=4"
     },
     {
         "type": "image",
-        "icon": "ico-stella",
+        "icon": "ico-happy",
+        "url": "images/carlino.gif"
+    },
+    {
+        "type": "image",
+        "icon": "ico-capybara",
         "title": "Griffin",
-        "url": "images/griffin.gif"
-    },
-    {
-        "type": "text",
-        "icon": "ico-pupazzo",
-        "text": "Babbo Natale non ha sempre indossato abiti rossi!Lo sapevi che anni fa indossava il verde?"
-    },
-    {
-        "type": "text",
-        "icon": "ico-caramella",
-        "text": "Jingle Bells, Jingle Bells: non mentire, l’hai letta cantando. Sapevi che la canzone più famosa del natale è anche stata la prima cantata nello spazio?"
+        "url": "images/compleanno.jpg"
     },
     {
         "type": "image",
-        "icon": "ico-calza",
+        "icon": "ico-penguin",
+        "url": "images/compleanno.jpg"
+    },
+    {
+        "type": "image",
+        "icon": "ico-pigeon",
+        "url": "images/barcellona.jpg"
+    },
+    {
+        "type": "image",
+        "icon": "ico-happy",
         "title": "Skeleton",
-        "url": "images/skeleton.gif"
+        "url": "images/laurea.jpg"
     },
     {
         "type": "text",
-        "icon": "ico-pupazzo",
-        "text": "Natale a Luglio? A Cuba è stato così per quasi 30 anni, fra il 1968 e il 1997: i festeggiamenti avvenivano in piena estate"
+        "icon": "ico-dragon",
+        "text": "Siamo arrivati a 10 anni, mi ricordo ancora quel giorno quando mi invitarono per una cena al giapponese tra amici, e io sciocco non sapevo che a quello stesso tavolo ci stesse l'amore di una vita. Abbiamo affrontato di tutto insieme, Cose bellissime e cose meno belle, si perchè con te vicino le avversità della vita non mi sembrano invalicabili. Oggi ci troviamo in una bellissima città non a festeggiare ma a ricordare quel fatidico giorno dove ci facemmo quella magnata assurda, Con del bellissimo sesso. Non sarebbero bastate 1000 di caselle per ricordare tutti i momenti belli.  "
     },
-    {
-        "type": "text",
-        "icon": "ico-fiocco",
-        "text": "Oltre a Pasqua, anche Natale ha la sua isola: è Christmas Island nell’Oceano Indiano, scoperta il 25 dicembre 1643."
-    },
-    {
-        "type": "text",
-        "icon": "ico-fiocco",
-        "text": "Anche Babbo Natale cede al lato oscuro della Forza. Il suo alter ego è Krampus, un demone che va alla ricerca di bambini cattivi."
-    },
-    {
-        "type": "text",
-        "icon": "ico-calza",
-        "text": "Pensi di essere un campione seriale di regali? Beh, i francesi hanno regalato agli americani la Statua della Libertà in segno di amicizia nel Natale del 1883"
-    },
-    {
-        "type": "image",
-        "icon": "ico-stella",
-        "title": "Nightmare Before Christmas",
-        "url": "images/nightmare.gif"
-    },
-    {
-        "type": "text",
-        "icon": "ico-stella",
-        "text": "In Svezia c’è una versione local di Babbo Natale: si chiama Tomte, è basso come un folletto e gira accompagnato da Yule, la sua capra"
-    },
-    {
-        "type": "image",
-        "icon": "ico-calza",
-        "title": "The Grinch",
-        "url": "images/grinch.gif"
-    },
-    {
-        "type": "text",
-        "icon": "ico-caramella",
-        "text": "Anche tu addobbi l’albero solo da un lato?Chissà se lo fecero anche gli antichi Egizi quando nel loro equivalente del Natale addobbavano le Piramidi"
-    },
-    {
-        "type": "text",
-        "icon": "ico-omino",
-        "text": "In Giappone il Natale è festeggiato come una sorta di San Valentino durante il quale solo le coppie si scambiano i doni"
-    },
-    {
-        "type": "text",
-        "icon": "ico-caramella",
-        "text": "È tempo di panettone, ma da dove viene questo nome? È quello di un dolce, il Pan di Toni inventato dall’aiuto cuoco della famiglia Sforza"
-    },
-    {
-        "type": "text",
-        "icon": "ico-calza",
-        "text": "Ma Babbo Natale abita in Puglia? Il nostro barbuto personaggio si ispira a San Nicola di Myra, un vescovo le cui spoglie sono custodite a Bari"
-    },
-    {
-        "type": "image",
-        "icon": "ico-caramella",
-        "title": "Una poltrona per due",
-        "url": "images/poltrona.gif"
-    },
-    {
-        "type": "image",
-        "icon": "ico-caramella",
-        "title": "Spongebob",
-        "url": "images/spongebob.gif"
-    },
-    {
-        "type": "image",
-        "icon": "ico-neve",
-        "title": "Elf",
-        "url": "images/elf.gif"
-    },
-    {
-        "type": "text",
-        "icon": "ico-neve",
-        "text": "Se pensi di non aver fritto abbastanza durante le scorse festività, ti sproniamo dicendo che in Polonia il pranzo natalizio è di 12 portate, una per ogni apostolo "
-    },
-    {
-        "type": "image",
-        "icon": "ico-caramella",
-        "title": "Carlton dancing",
-        "url": "images/dance.gif"
-    }
+   
+
 ];
